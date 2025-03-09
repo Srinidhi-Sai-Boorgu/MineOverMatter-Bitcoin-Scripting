@@ -1,0 +1,18 @@
+{
+    "address_a_prime": "2N5YVgeVK8JaxDNeEja4vPMSXDDruPaSbe8",
+    "address_b_prime": "2MxN4iffihUoJ8WkqgnDCHpdTu6vrGnzeks",
+    "address_c_prime": "2N6RSDWaE9FmzrYAn8rA2mzK4PHuAapS3LD",
+    "tx_a_to_b": "15f00e0da6d82c54054ea3939fce946338d03ac306fe87172271759b00871c30",
+    "tx_b_to_c": "229ed081cf9af34e05122018084139b7e05d40ae4b3893357e99ca6c555e5916",
+    "scriptSig": {
+        "asm": "0014263e7f5fbb9155682a1af5621c00937d01b4bc5d",
+        "hex": "160014263e7f5fbb9155682a1af5621c00937d01b4bc5d"
+    },
+    "previousScriptPubKey": {
+        "asm": "OP_HASH160 3823cd961dce36366cbcdc63ace32b1fe5bb0ec0 OP_EQUAL",
+        "desc": "addr(2MxN4iffihUoJ8WkqgnDCHpdTu6vrGnzeks)#x23gvyn5",
+        "hex": "a9143823cd961dce36366cbcdc63ace32b1fe5bb0ec087",
+        "address": "2MxN4iffihUoJ8WkqgnDCHpdTu6vrGnzeks",
+        "type": "scripthash"
+    }
+}

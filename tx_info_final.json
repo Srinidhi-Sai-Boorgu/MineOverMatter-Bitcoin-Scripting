@@ -1,0 +1,18 @@
+{
+    "address_a": "mo3Gb91CZh3MtPGdzJbBw8cFNZW4xN8ihT",
+    "address_b": "mfnzo7byi9R76pf4Ct1eUH5cgf9QSA6qnv",
+    "address_c": "mgrxiR3r336phqmN2EGuTtMCF25PJsBK4u",
+    "tx_a_to_b": "07b3c2c3e791e11c3faffb0333e207bb016633cf4f727621e56874d1e0f48c9f",
+    "tx_b_to_c": "bae2c3576128e35c649ba30538b9e24aecf300aad7063a0e230a344fd35ffa23",
+    "scriptSig": {
+        "asm": "3044022073fdb36a203bc0eb4ffa8d2545f26cb4aeec78ff31ae92d79a937073793f1bfb02205d4441054c0f984cf795deac8e9034e68b20cc323cd3332d45f00666811f8315[ALL] 02a6b47f2ea4d66df2b14b9878c53fe58fec9724500f74390ec45b43994c374bfb",
+        "hex": "473044022073fdb36a203bc0eb4ffa8d2545f26cb4aeec78ff31ae92d79a937073793f1bfb02205d4441054c0f984cf795deac8e9034e68b20cc323cd3332d45f00666811f8315012102a6b47f2ea4d66df2b14b9878c53fe58fec9724500f74390ec45b43994c374bfb"
+    },
+    "previousScriptPubKey": {
+        "asm": "OP_DUP OP_HASH160 0308be3f7ded2074b14c477fa18ec0ecfe3e3dfc OP_EQUALVERIFY OP_CHECKSIG",
+        "desc": "addr(mfnzo7byi9R76pf4Ct1eUH5cgf9QSA6qnv)#5d7z884z",
+        "hex": "76a9140308be3f7ded2074b14c477fa18ec0ecfe3e3dfc88ac",
+        "address": "mfnzo7byi9R76pf4Ct1eUH5cgf9QSA6qnv",
+        "type": "pubkeyhash"
+    }
+}
